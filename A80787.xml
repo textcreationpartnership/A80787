@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Irelands ingratitude to the Parliament of England. Or, A remonstrance of Colonell Crawfords, shewing the Jeuiticall [sic] plots against the Parliament, which was the onely cause he left his imployment there. Die Sabbathi, Feb. 3. 1643. Ordered by the Commons assembled in Parliament, that Colonell Crawfords remonstrance be printed and published. H. Elsinge Cler. Parl. D. Com.</title>
+            <author>Crawford, Lawrence, 1611-1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80787</idno>
+            <idno type="STC">Wing C6864</idno>
+            <idno type="STC">Thomason E33_28</idno>
+            <idno type="STC">ESTC R22835</idno>
+            <idno type="EEBO-CITATION">99871841</idno>
+            <idno type="PROQUEST">99871841</idno>
+            <idno type="VID">154593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80787)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154593)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E33[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Irelands ingratitude to the Parliament of England. Or, A remonstrance of Colonell Crawfords, shewing the Jeuiticall [sic] plots against the Parliament, which was the onely cause he left his imployment there. Die Sabbathi, Feb. 3. 1643. Ordered by the Commons assembled in Parliament, that Colonell Crawfords remonstrance be printed and published. H. Elsinge Cler. Parl. D. Com.</title>
+                  <author>Crawford, Lawrence, 1611-1645.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Griffin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "Feb: 20th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154593:1" rendition="simple:additions"/>
+            <p>IRELANDS INGRATITUDE TO THE Parliament of England.</p>
+            <p>OR, A REMONSTRANCE of Colonell CRAWFORDS, ſhewing the Jeuiticall plots againſt the <hi>Parliament,</hi> which was the onely cauſe he left his imployment there.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbathi, Feb. 3. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, that Colonell
+<hi>Crawfords</hi> Remonſtrance be printed and publiſhed.</p>
+                        <closer>
+                           <signed>H. Elſinge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. Griffin.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:154593:2"/>
+            <pb n="1" facs="tcp:154593:2"/>
+            <head>Colonell Crawford HIS REMONSTRANCE, DECLARING Why he deſerted his imployment in IRELAND.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Should not have thought my private ſufferings ſo much wor<g ref="char:EOLhyphen"/>thy of publique conſideration, as to engage the Preſſe to a mention of them, if I had not looked upon them as involved, not onely in the publique ſufferings of calami<g ref="char:EOLhyphen"/>tous <hi>Ireland,</hi> but in the more publique endan<g ref="char:EOLhyphen"/>germent of Religion, Lawes, and Liberties of the three Kingdomes; and beſides that, that the moſt honourable Houſes of Parliament, the
+<pb n="2" facs="tcp:154593:3"/>beſt and higheſt Judges of ſuch concernes, had not authorized me to right my ſelfe in this kinde. This authority therefore, which I truly honour, ſhall as much vindicate me from vaine<g ref="char:EOLhyphen"/>glory or ambition in making this relation, as the truth of this relation ſhall cleare me from any aſperſions which are or ſhall be caſt upon me by mine and their enemies. To uſe therefore no long preambles, the briefe of my ſufferings, when I was forced to make an eſcape from <hi>Ireland,</hi> were theſe: beſides the loſſe of my command and fortunes there, being robbed (as ſhall afterward appeare) of all my Money, Cloathes, Horſes, and whatſoever I poſſeſſed, and ſo extreame an hazzard of my life; I have beene unjuſtly traduced by the Marqueſſe <hi>Or<g ref="char:EOLhyphen"/>mond,</hi> and the reſt of that Councell, as a de<g ref="char:EOLhyphen"/>ſerter of that imployment, which I had un<g ref="char:EOLhyphen"/>dertaken, and a forſaker of His Majeſties ſer<g ref="char:EOLhyphen"/>vice. To theſe unjuſt aſperſions I ſhall plainely anſwer, by ſetting downe not onely the reaſons why I came away, but the manner of it. Which I had ſooner done, if, ſince I arrived in my native Kingdome of <hi>Scotland,</hi> I had not been hindred by croſſe windes from making my re<g ref="char:EOLhyphen"/>paire to this honourable Parliament; not
+<pb n="3" facs="tcp:154593:3"/>onely to juſtifie here my former actions, but tender my future ſervice in that cauſe, to which I have been ever moſt heartily devoted; in which I have already ſpent ſome of my blood, and will never be ſparing to venture the remain<g ref="char:EOLhyphen"/>der of it.</p>
+            <p>When firſt I undertooke the ſervice againſt thoſe barbarous and bloody rebels of <hi>Ireland,</hi> authoriſed by Commiſſion from His Majeſty, and the honourable Houſes of Parliament; as it was my earneſt deſire, ſo it was my confident hope to have given an account more accepta<g ref="char:EOLhyphen"/>ble to them, then either my ſelfe, or any other joyned with me in that undertaking can pro<g ref="char:EOLhyphen"/>miſe at this time. Nor were my moſt hearty endeavours ever wanting, as God and my owne conſcience beare me record, and all true Pro<g ref="char:EOLhyphen"/>teſtants, who have beene witneſſes of my acti<g ref="char:EOLhyphen"/>ons will beleeve. For ſhortly after my engage<g ref="char:EOLhyphen"/>ments in that ſervice, I found in thoſe who had the greateſt command, ſuch backwardnes from all counſels tending to the advancement of the great Cauſe in hand; ſuch complying with the barbarous Rebels; ſuch ſubtill waies to retard the zealous endeavours of all who ſtu<g ref="char:EOLhyphen"/>died to be faithfull, and frowning upon them
+<pb n="4" facs="tcp:154593:4"/>that were moſt forward in action, that I found no leſſe difficulty to acquit my ſelfe againſt the treacherous policy of ſeeming friends, then to withſtand the power of profeſſed enemies. Yet againſt both I ever confirmed my reſolu<g ref="char:EOLhyphen"/>tion ſo farre upon the juſt and Honourable Cauſe, that I am perſwaded no man can con<g ref="char:EOLhyphen"/>vince me of yeelding either to the one or o<g ref="char:EOLhyphen"/>ther in any jot, to the prejudice of the ſervice. Neither ſhould any diſcontents have diverted me from my imployment; nor the ruine of my fortunes, nor the hard and cruell uſage of my friends have beene able to draw me from that ſtation wherein His Majeſty and the ho<g ref="char:EOLhyphen"/>nourable Houſes of Parliament had placed me: if I had not evidently found that I could ſtay no longer there, without, either making ſhip<g ref="char:EOLhyphen"/>wracke of a good conſcience, and taking cour<g ref="char:EOLhyphen"/>ſes deſtructive to the intentions of the Parlia<g ref="char:EOLhyphen"/>ment: or elſe to ſuffer impriſonment, and ſo be made unprofitable to that Cauſe, to which I was addicted. Upon theſe reaſons I reſolved, with what perill ſoever, to endeavour an eſcape from thence, that ſo I might be able in ano<g ref="char:EOLhyphen"/>ther place to doe better ſervice to the true Cauſe, then I could poſſibly have performed
+<pb n="5" facs="tcp:154593:4"/>there. And it pleaſed Almighty God, though with the loſſe of all my fortunes (as aforeſaid) and danger of my life from purſuing enemies, to bring me ſafely hither. The reaſons which neceſſitated my comming away are theſe:</p>
+            <p>Firſt, I ſaw by ſad experience the Marqueſſe <hi>Ormonds</hi> deſigne in concluding a Ceſſation with the bloody Rebels of <hi>Ireland,</hi> which ſeemed to me a ſecond plot, agreeing to the former, which in <hi>October</hi> 1641. was put into act by thoſe mer<g ref="char:EOLhyphen"/>cileſſe Rebels, to deliver the remainder of His Majeſties true Subjects into their hands, and ſo to root out the Proteſtant Religion, and de<g ref="char:EOLhyphen"/>ſtroy both Engliſh and Scots from that King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Secondly, he would have forced me to goe for <hi>England</hi> with my Regiment in a moſt unjuſt warre againſt the Parliament there, who have ſuſtained me and my Regiment ſince the begin<g ref="char:EOLhyphen"/>ning of that Iriſh Rebellion. And moſt illegally he ſent two Companies of my Regiment under the command of another into <hi>England,</hi> without my knowledge; which is without precedent or diſcipline.</p>
+            <p>Thirdly, the ſaid Marqueſſe formed a moſt unjuſt and illegall Oath, and impoſed it upon
+<pb n="6" facs="tcp:154593:5"/>every Officer and Souldier to take, as appeares by that Oath, here annexed:
+<q>
+                  <p>
+                     <hi>I</hi> Reſting fully aſſured of his Majeſties moſt Princely truth and goodneſſe, doe freely and from my heart promiſe, vow, and proteſt, in the preſence of Almighty God, that I will to the utmoſt of my power and with the hazzard of my life, maintaine and defend the true Proteſtant Religion eſtabliſhed in the Church of <hi>England,</hi> His Majeſties ſacred Perſon, His Heires and lawfull Succeſſours, and His Majeſties juſt powers and Preroga<g ref="char:EOLhyphen"/>tives; againſt the Forces now under the conduct of the Earle of <hi>Eſſex,</hi> and againſt all other Forces whatſoever, that are or ſhall be raiſed contrary to His Majeſties commands and Authority.</p>
+                  <p>And I will doe my beſt endeavour to pro<g ref="char:EOLhyphen"/>cure and re-eſtabliſh the peace and quietneſſe of the Kingdome of <hi>England.</hi>
+                  </p>
+                  <p>And I will neither directly nor indirectly divulge or communicate any thing to the ſaid E. of <hi>Eſſex,</hi> his Officers, or any other, to hin<g ref="char:EOLhyphen"/>der or prejudice the deſignes of his Majeſty in the conduct or imployment of his Army.</p>
+               </q>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="7" facs="tcp:154593:5"/>
+                  <head>By the Lieutenant-Generall of his Majeſties Army.</head>
+                  <p>WHereas his Majeſtie hath beene pleaſed to command the preſent tranſportation of a part of his Army here into <hi>England,</hi> I doe thinke fit, and hereby order, that every Officer and Souldier to be tranſported hence do take the Oath above writ<g ref="char:EOLhyphen"/>ten before they depart this Harbour.</p>
+                  <closer>
+                     <dateline>Given at his Majeſties Caſtle of <hi>Dubin</hi> 
+                        <date>the 13. of October 1643.</date>
+                     </dateline> 
+                     <signed>Ormond.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>To which he preſſed me extreamly, telling me, that if I would not take it, he would ca<g ref="char:EOLhyphen"/>ſhiere and impriſon me. Upon this I feared a reſtraint of my Liberty, and beſides ſaw the unwillingneſſe of my Officers and Souldiers to goe into <hi>England</hi> to fight againſt the Parlia<g ref="char:EOLhyphen"/>ment, which might have beene imputed to me, as counſelling them ſo to doe.</p>
+            <p>Fourthly, I ſaw the illegall proceedings of that <hi>Ormond</hi> and the Councell, in impriſoning of reall honeſt men, for not ſubmitting to their fraudulent wayes, and inlarging of deteſtable Rebels, who had beene murderers of many thouſand good Proteſtants. And Colonell
+<pb n="8" facs="tcp:154593:6"/>
+               <hi>Monkes</hi> obtaining leave to paſſe for <hi>England</hi> of Marqueſſe <hi>Ormond,</hi> who by a private Letter from the ſaid Marqueſſe, was afterwards impri<g ref="char:EOLhyphen"/>ſoned at <hi>Briſtoll.</hi>
+            </p>
+            <p>Fifthly, the extravagancies of the ſaid Mar<g ref="char:EOLhyphen"/>queſſe in complying with the bloody Rebels; his frowning upon me for willingneſſe to doe ſervice upon them, and withſtanding the Ceſ<g ref="char:EOLhyphen"/>ſation; his calling the Parliament of <hi>England</hi> inhumane Rebels, and hatchers of all the miſ<g ref="char:EOLhyphen"/>chiefe that is befallen <hi>Ireland;</hi> his frequent conſultations how to invade the Parliaments Forces reſiding there; to fend the Army out of <hi>Ireland</hi> to poſſeſſe the Rebels of their lands; in ſuffering ſo great numbers of the Rebels to frequent <hi>Dublin,</hi> as with the aſſiſtance of Pa<g ref="char:EOLhyphen"/>piſts therein, ſhould be able to deſtroy both the Engliſh and Scots there reſiding. I cannot forget that in the Treaty betwixt the Mar<g ref="char:EOLhyphen"/>queſſe <hi>Ormond</hi> and the Iriſh Rebels, it is in<g ref="char:EOLhyphen"/>cluded, that the Rebels ſhall have leave to ſend at all times ſuch numbers of their owne, as they ſhall thinke fitting, unto his Majeſtie, Whereupon the Proteſtants, fearing leſt the Rebels might by this meanes unjuſtly incenſe his Majeſty againſt his good Subjects of the
+<pb n="9" facs="tcp:154593:6"/>Brittiſh Nation, intreated that they might have leave alſo to ſend as many of their num<g ref="char:EOLhyphen"/>bers over, to informe his Majeſty concerning the proceedings and behaviour of the Rebels: which was refuſed them by the Marqueſſe <hi>Or<g ref="char:EOLhyphen"/>mond</hi> and the Councell then in <hi>Ireland.</hi> And to that purpoſe two privy Councellors, the Earle of <hi>Roſſcommon,</hi> and Sir <hi>James Ware</hi> came downe from the Councell Table, to deſire thoſe whom they knew to be of their faction, to withdraw their hands from the Petition, obtaining none but one Major <hi>Morris.</hi>
+            </p>
+            <p>As alſo that in November 1643. the Parlia<g ref="char:EOLhyphen"/>ment in <hi>Ireland</hi> ſitting, the Houſe of Commons had in debate that there might be a Remon<g ref="char:EOLhyphen"/>ſtrance ſet out, declaring the inhumanity of the Iriſh Rebels, and a Committee ſent to the Lords Juſtices and Councell with it, deſiring it might be recommended to his Majeſty; whereupon there was a Meſſage ſent down from the Houſe of the Lords, no man ſitting there but the Marqueſſe <hi>Ormond</hi> and foure of his great Fa<g ref="char:EOLhyphen"/>vourites, and among the reſt an Arch-Papiſt, my Lord Viſcount of <hi>Meriyoung,</hi> in which Meſſage it was delivered, That there were greater mat<g ref="char:EOLhyphen"/>ters of ſtate to be conſidered, which was no<g ref="char:EOLhyphen"/>thing
+<pb n="10" facs="tcp:154593:7"/>elſe but the ſending over the Engliſh Ar<g ref="char:EOLhyphen"/>my then in <hi>Ireland</hi> to fight againſt the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>One particular more horrid then the reſt I was informed of about that time; that had beene intended againſt Maſter <hi>Reynolds</hi> and Maſter <hi>Goodwine,</hi> who were then ſent over with Money (which was more acceptable there then themſelves) the day before their comming away, there was a Plot to have dragged them to priſon, the prime Actors thereof are in this laſt bleſſed victory of Sir <hi>Thomas Fairfax</hi> and Sir <hi>William Brereton</hi> taken priſoners. Upon theſe reaſons I withdrew my ſelfe to <hi>Newery,</hi> from whence I wrote a Letter (too much to be here inſerted) to my Lord Marqueſſe, full of humility (as by the true Copy I can prove) in<g ref="char:EOLhyphen"/>treating him to vouchſafe me a line in anſwer to my juſt and humble requeſts; which were, that I might not be preſſed to that Oath too burdenſome for my Conſcience, nor inforced over to ſerve againſt the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> which if his Lordſhip would grant, I would with all alacrity continue in ſervice un<g ref="char:EOLhyphen"/>der him, according to the firſt intention of my Commiſſion, againſt thoſe barbarous and
+<pb n="11" facs="tcp:154593:7"/>bloody Rebels of <hi>Ireland,</hi> to which ſervice I was ſo heartily devoted, that (as I expreſſed to him) though I had beene invited home with hopes of better preferment, yet I had ſtill reje<g ref="char:EOLhyphen"/>cted it; that to avoid his indignation I had withdrawne my ſelfe towards <hi>Caregfergus,</hi> where if I heard not from him, I ſhould bee inforced to reſolve on a further journey, as God ſhould inable me. To which Letter receiving no an<g ref="char:EOLhyphen"/>ſwer, I ſoone after wrote him another from the <hi>Newery,</hi> with the ſame humble requeſts, as alſo expreſſing to him my former ſervices, which he might well remember, and that they might deſerve ſo far, as that he might truſt my fideli<g ref="char:EOLhyphen"/>ty without any new Oath. I deſired alſo that his Lordſhip would make a redreſſe to me of the inhumane proceedings of my Lord <hi>Moore</hi> againſt me, who endeavoured by all meanes he could to take away my life upon bare ſuſpiti<g ref="char:EOLhyphen"/>on, without reaſon, and afterwards robbed me of all my goods, leaving mee not a peny. Which barbarous uſage I humbly referred to his Lordſhips conſideration, deſiring a reſti<g ref="char:EOLhyphen"/>tution of my goods, horſes, and money; but found no anſwer to any of my juſt requeſts. Im<g ref="char:EOLhyphen"/>mediately after I wrote another Letter from
+<pb n="12" facs="tcp:154593:8"/>the <hi>Newery</hi> alſo to my Lord <hi>Moore,</hi> deſiring re<g ref="char:EOLhyphen"/>dreſſe from him, with more civility and reſpect then his cruell uſage of me had deſerved; but found no ſatisfaction at his hands. Upon theſe occaſions I plainly underſtood, there was no ſtay<g ref="char:EOLhyphen"/>ing for me with a good Conſcience, nor any poſ<g ref="char:EOLhyphen"/>ſibility of continuing to do that ſervice which I came to doe againſt thoſe bloody Rebels, in revenge of ſo many thouſand of my brethren murdered, and vindication of that Religion which is farre dearer to me then my life, and for which I defie the tongue of any man to accuſe me of any ſlackneſſe in ſervice at all. I confeſſe I was ſtricken with admiration to ſee ſo great a Maſter-piece of the Devill wrought in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> exceeding (in mine opinion) all the reſt; which have of late, by the ſame Councell, been hatched in <hi>England</hi> and in <hi>Scotland,</hi> not only in the ſubtilty and horridneſſe of the continuance, but in the miraculous blinding of thoſe men who call themſelves Proteſtants, to bee made actors in it; that he could firſt finde a meanes to make ſo generall an inſurrection of thoſe bloody Rebels, to the maſſacring of above an hundred and ſixty thouſand Proteſtants; then raiſe an Army of Engliſh and Scots to fight
+<pb n="13" facs="tcp:154593:8"/>againſt thoſe Rebels ſo long, untill (beſides the loſſe of much blood more) the Proteſtants in ſo hot an Academy of Warre, were made ex<g ref="char:EOLhyphen"/>cellent Souldiers (for that cannot be denied) and fit to do ſervice in the behalfe of thoſe Re<g ref="char:EOLhyphen"/>bels againſt whom they had been raiſed; ſo that thoſe Engliſh Proteſtant Regiments which come out of <hi>Ireland</hi> do a double ſervice to Po<g ref="char:EOLhyphen"/>pery (and as the Proverbe is) ſtop two gaps with one buſh; not onely wounding the Parlia<g ref="char:EOLhyphen"/>ment, from whence the onely reliefe ſhould come to the cauſe of Religion in <hi>Ireland:</hi> but by withdrawing themſelves from thence, expoſe the reſidue of Proteſtants there to the mercy of thoſe inhumane Rebels. But I hope this extream raging of the Devill does but foreſhew that his time is ſhort; and God Almighty, to the reliefe of his Church and people, will chaine him up. Theſe conſiderations have drawne from mee a Remonſtrance, not to vindicate my ſelfe in any point of Honour, for I conceive I never loſt any, but to informe others by what wicked meanes that Kingdome of <hi>Ireland</hi> is betrayed, and to open the eyes of thoſe who are not wil<g ref="char:EOLhyphen"/>fully blind.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
